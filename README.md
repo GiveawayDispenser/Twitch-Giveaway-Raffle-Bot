@@ -7,6 +7,10 @@ Why open a bunch of tabs to a bunch of streamers that "giveaway free weekly vaul
 
 Worried that the bot you have now might go offline or crash and not come back up immediatley?  Got you covered there too!  The bot is hosted in the cloud on servers that have better relaibility that Amazon Web Services!  Not to mention everything is backed up daily, weekly and bi-weekly.
 
+Multi-channel raffles is a feature that is in the que to be added to the bot.  So stay tuned!
+
+
+
 Access to this bot is granted on a case by case request.  Please send requests to scymplex@gmail.com
 
 
