@@ -16,3 +16,7 @@ Multi-channel raffles is a feature that is in the que to be added to the bot.  S
 Access to this bot is granted on a case by case request.  Please send requests to scymplex@gmail.com
 
 
+Are you a streamer?  Read this...
+
+This bot will show the results of each giveaway into your discord serveronce all the winners have been locked in, including rolls, sub status, and the chances they had.
+Want to see the log of everything the bot does? Got you there too, send a command to the bot and it will send you the whole log of actions that has happened recently.
