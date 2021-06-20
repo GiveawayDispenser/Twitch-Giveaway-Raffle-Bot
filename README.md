@@ -9,7 +9,7 @@ Getting sick and tired of people entering giveaways just to "farm better luck" k
 
 Everything in this bot is fully configurable by the streamer, this bot can be used to giveaway almost anything!
 
-Worried that the bot you have now might go offline or crash and not come back up immediatley?  Got you covered there too!  The bot is hosted in the cloud on servers that have better relaibility that Amazon Web Services!  Not to mention everything is backed up daily, weekly and bi-weekly.
+Worried that the bot you have now might go offline or crash and not come back up immediatley?  Got you covered there too!  The bot is hosted in the cloud on servers that have better relaibility than Amazon Web Services!  Not to mention everything is backed up daily, weekly and bi-weekly.
 
 Multi-channel raffles is a feature that is in the que to be added to the bot.  So stay tuned!
 
