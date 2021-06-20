@@ -5,13 +5,13 @@ Sometimes you have bad luck in a game trying to find a group for a hard dungeon 
 
 Why open a bunch of tabs to a bunch of streamers that "giveaway free weekly vault keys or even timed KSM keys?"  just find a streamer with this bot and remain loyal to them and you can almost guarantee you will win because you keep increasing your odds of winning.  Don't get frustrated by brand new people to the stream always winning the giveaways.
 
+Getting sick and tired of people entering giveaways just to "farm better luck" knowing beforehand that they have no intentions of accepting the prize if they win because they are at work or just hoping between all the streams?  No problem, the streamer can just enable the afkreroll protection!
+
 Everything in this bot is fully configurable by the streamer, this bot can be used to giveaway almost anything!
 
 Worried that the bot you have now might go offline or crash and not come back up immediatley?  Got you covered there too!  The bot is hosted in the cloud on servers that have better relaibility that Amazon Web Services!  Not to mention everything is backed up daily, weekly and bi-weekly.
 
 Multi-channel raffles is a feature that is in the que to be added to the bot.  So stay tuned!
-
-
 
 Access to this bot is granted on a case by case request.  Please send requests to scymplex@gmail.com
 
