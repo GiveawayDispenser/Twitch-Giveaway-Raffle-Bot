@@ -1,7 +1,7 @@
 # GiveawayDispenser #
 
 This bot actually dispenses giveaways!  
->Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  English is hard.  
+>Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  Wouldn't want any "small indi companies" to ban us just because they saw the word raffle and assumed RMT without even investigating.  English is hard.  
 
 This bot uses a system that has been called many things.  Some examples would be bad luck protection, good luck guarantee, lucky scuff protection, or pity (think Genshin Impact).  To make things as customizable as possible, the term for this "luck", is defined as a currency which can be named anything the streamer chooses.  Default is Token(s).
 
