@@ -20,6 +20,9 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 #### Overflow
 - Users retain any excess currency after winning a giveaway.  As an example, a user has 220 currency, and wins a giveaway.  Only 100 of that was actually used to win the giveaway (to make your minimum roll the same as the maximum roll - 1000-1000).  With overflow ON, this user would end up with 120 currency after winning.  With overflow OFF, this user would end up with 0 currency after winning.
 
+#### Winner cooldown
+- Prevents winners from entering/winning multiple raffles in a row.  Setting this to 1 makes it so no one can win back to back giveaways.
+
 #### Tiered or Untiered Subluck
 - Subluck is enabled by default and can be set per tier level (1, 2 or 3).  Think of this as permanent currency that can be used every time you enter a giveaway.  Default is 30, 35, 40.
 
