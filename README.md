@@ -91,3 +91,5 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>settimerenabled _0 or 1_</kbd> This will enable (1) or disable (0) the announcement of a giveaway in progress. Default: enabled (1)
 - <kbd>enablebot _0 or 1_</kbd> This will enable(1) or disable(0) the bot from accepting commands or keywords from chat.  Default: enabled(1)
 - <kbd>sendlog</kbd>  This will send the current bot log file to discord webhook #2.  This can be helpful for example in determining if someones claim to not getting their currency has any merrit, or just basic troubleshooting/analysis.
+
+Contact: https://discord.gg/7z3NEyu72n
