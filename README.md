@@ -13,7 +13,7 @@ Worried that the bot you have now might go offline or crash and not come back up
 
 Multi-channel raffles is a feature that is in the que to be added to the bot.  So stay tuned!
 
-Access to this bot is granted on a case by case request.  Please send requests to scymplex@gmail.com
+Access to this bot is granted on a case by case request.  Please send requests to scymplex+giveawaybotrequest@gmail.com
 
 
 Are you a streamer?  Read this...
