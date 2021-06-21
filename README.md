@@ -44,7 +44,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
     Users would then enter the keyword to enter.
 !winner - Announces the winner.
     The winner acknowledges that they can and will accept the free key.
-!lock - Locks in the winner, finalizes the giveaway and disperses any currency.
+!lock - Locks in the winner, finalizes the giveaway, disperses any currency, and reports the raffle rolls to discord (if configured).
   ```
 
 **Giveaway Utility Commands**
