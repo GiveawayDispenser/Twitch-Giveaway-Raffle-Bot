@@ -20,7 +20,7 @@ Are you a streamer?  Read this...
 
 This bot will show the results of each giveaway into your discord server once all the winners have been locked in, including rolls, sub status, and the chances they had.
 
-Nearly all features and options are configurable by the streamer adding tons of flexibilty.
+Nearly all aspects are configurable by the streamer adding tons of flexibilty.
 
 Want to see the log of everything the bot does? Got you there too, send a command to the bot and it will send you the whole log of actions that has happened recently.
 
