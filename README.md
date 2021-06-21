@@ -57,7 +57,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>!afk% _percent_</kbd> - Announces to chat the current afkreroll penalty percent.  Specify a percent to change it.  Example: <kbd>!afk% 50</kbd>
 - <kbd>!afk$ _amount_</kbd> - Announces to chat the current afkreroll penalty amount.  Specify an amount to change it.  Example: <kbd>!afk$ 1</kbd>
 - <kbd>!setcurrency _name_</kbd>- Announces the name of the currency. The term for luck granted by this bot is referenced as a currency, which is something you hold on to and can be named anything you want with this command. The default name for this currency is Token(s).  Example: <kbd>!setcurrency Stripper Cash</kbd>
-- <kbd>!confirmentry _phrase_</kbd> - Gets or sets if the bot responds when someone enters a giveaway with the specified phrase.  Entering phrase as 0 will stop the bot from confirming entries.
+- <kbd>!confirmentry _phrase_</kbd> - Gets or sets if the bot responds when someone enters a giveaway with the specified phrase.  Entering phrase as 0 will stop the bot from confirming entries.  Default is OFF.
 - <kbd>!followeronly _0 or 1_</kbd> Enables(1) or disables(0) follower only mode for giveaways. Use without an option to display if it's on or off.
 
 
