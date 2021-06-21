@@ -26,7 +26,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 #### Anti-Currency Farming AKA afkreroll penalty
 - Imagine yourself in a stream that does giveaways for key carries and you are actively watching the stream from your computer at home.  You have been trying all day to get into a Dungeon Finder key, but no one is inviting you.  You should be rewarded for watching the stream and earning more currency to earn your next win.
-- Now, imagine someone at work who hasn't even been trying to get into dungeon finder groups (because they can't even play the game from work) who keeps entering every giveaway KNOWING that you cannot accept the free key.  They are only trying to "farm" extra luck aka currency for when they get home hours later and enter.
+- Now, imagine someone at work who hasn't even been trying to get into dungeon finder groups (because they can't even play the game from work), and not even watching the stream who keeps entering every giveaway KNOWING that you cannot accept the free key.  They are only trying to "farm" extra luck aka currency for when they get home hours later and enter.
 - Now imagine everyone at work entering every single giveaway.  Every winner would have to be passed over, and everyone would get free currency.  The streamer is now wasting their time having to wait for you to respond and then roll off another winner.  How many people will pass on their win?  This is not fair for the people who are actually entering the giveaways to WIN now, not try and farm it for later.
 - This feature works by penalizing anyone who wins but fails to claim their winnings either because they choose not to accept or if they are afk/do not respond.
 
