@@ -83,7 +83,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>setoauth _oauthkey_</kbd> - Sets the oauth key that the bot will need in order to fetch certain information about the stream and users in it.
 - <kbd>setclientid _clientid_</kbd> - Sets the client id that the bot will need in order to fetch certain information about the stream and users in it.
 - <kbd>setdiscordkey _discordwebhook_</kbd> - Sets the discord webhook which is required in order for the bot to @mention users as well as output all the rolls upon a giveaway being finalized.
-- <kbd>setdiscordkey2 _discordwebhook2_</kbd> - Sets the discord webhook #2 which is required in order for the bot to output bot log files.  Porbably make this discord channel private.
+- <kbd>setdiscordkey2 _discordwebhook2_</kbd> - Sets the discord webhook #2 which is required in order for the bot to output bot log files.  Probably make this discord channel private.
 - <kbd>setoverflow _amount_</kbd>" Entering an amount will make it so when someone wins a giveaway and their currency amount was over 100, the amount over 100 is kept, otherwise all currency is lost after u win. Setting the amount to 0 disables this feature.
 - <kbd>setgiveawaymsg _giveaway message_</kbd> Changes what you are giving away upon starting the giveaway. What are you giving away? Default: a FREE KEY
 - <kbd>settimermsg _msg_</kbd>  This is the chat message that announces that the giveaway is still open. Default: a FREE KEY!
