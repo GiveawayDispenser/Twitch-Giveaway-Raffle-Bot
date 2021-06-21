@@ -33,7 +33,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 **Starting a Giveaway**
 - <kbd>!sg _keyword or phrase_</kbd> - Short for Start Giveaway. This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
-- <kbd>!winner _pardon_</kbd> - Select one winner and stop accepting new entrants.  This will announce the viewer that had the highest roll and @mention them in discord.  Appending the word "pardon" after !winner will "pardon" the previous winner.  A pardoned viewer will be entirely removed from the giveaway and will not incur any afkreroll penalties if they are enabled.  If a winner is unable to accept the prize, simply issue another !winner command to get the next highest roll.
+- <kbd>!winner _pardon_</kbd> - Select one winner and stop accepting new entrants.  This will announce the viewer that had the highest roll.  Appending the word "pardon" after !winner will "pardon" the previous winner.  A pardoned viewer will be entirely removed from the giveaway and will not incur any afkreroll penalties if they are enabled.  If a winner is unable to accept the prize, simply issue another !winner command to get the next highest roll.
 - <kbd>!lock</kbd> - Finalize the giveaway.  This will lock in the last winner announced and finalize the giveaway, distributing all luck to those involved and updating the DB.
 - - <kbd>!lock _1_</kbd> - Lock in the last winner announced, but NOT finalize the giveaway.  Use this if you wish to have multiple winners in one giveaway.
 - - <kbd>!lock _2_</kbd> - Finalize the giveaway ONLY.  This will not lock in any winners, use !lock 1 to do that.  For example, this would be used after issuing <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> -> <kbd>!winner </kbd> -> <kbd>!lock 1</kbd> to finalize the giveaway with two people as winners.
@@ -85,7 +85,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 - <kbd>setoauth _oauthkey_</kbd> - Sets the oauth key that the bot will need in order to fetch certain information about the stream and users in it.
 - <kbd>setclientid _clientid_</kbd> - Sets the client id that the bot will need in order to fetch certain information about the stream and users in it.
-- <kbd>setdiscordkey _discordwebhook_</kbd> - Sets the discord webhook which is required in order for the bot to @mention users as well as output all the rolls upon a giveaway being finalized.
+- <kbd>setdiscordkey _discordwebhook_</kbd> - Sets the discord webhook which is required in order for the bot to output all the rolls upon a giveaway being finalized.
 - <kbd>setdiscordkey2 _discordwebhook2_</kbd> - Sets the discord webhook #2 which is required in order for the bot to output bot log files.  Probably make this discord channel private.
 - <kbd>setoverflow _amount_</kbd>" Entering an amount will make it so when someone wins a giveaway and their currency amount was over 100, the amount over 100 is kept, otherwise all currency is lost after u win. Setting the amount to 0 disables this feature.
 - <kbd>setgiveawaymsg _giveaway message_</kbd> Changes what you are giving away upon starting the giveaway. What are you giving away? Default: a FREE KEY
