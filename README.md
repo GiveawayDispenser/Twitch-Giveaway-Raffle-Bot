@@ -19,6 +19,8 @@ Access to this bot is granted on a case by case request.  Please send requests t
 Are you a streamer?  Read this...
 
 This bot will show the results of each giveaway into your discord server once all the winners have been locked in, including rolls, sub status, and the chances they had.
+
+Nearly all features and options are configurable by the streamee adding tons of flexibilty.
 Want to see the log of everything the bot does? Got you there too, send a command to the bot and it will send you the whole log of actions that has happened recently.
 
 Looking for that sweet sweet weakaura that lists all the keys in the group on your screen so your viewers can see what keys they can choose from? You are in luck, I made a weakaura that does just that.  This weakaura comes with the bot, so make your request convincing :)
