@@ -76,6 +76,10 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
 - <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
 
+**Misc. Commands**
+- <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
+- <kbd>!randint</kbd> - Picks a random number from 0-1000
+- <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
 
 **Private Settings/Commands**
 >These commands must be whispered directly to the bot, and do not provide responses via whisper if any.
