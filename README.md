@@ -62,7 +62,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>!setcurrency _name_</kbd>- Announces the name of the currency. The term for luck granted by this bot is referenced as a currency, which is something you hold on to and can be named anything you want with this command. The default name for this currency is Token(s).  Example: <kbd>!setcurrency Stripper Cash</kbd>
 - <kbd>!confirmentry _phrase_</kbd> - Gets or sets if the bot responds when someone enters a giveaway with the specified phrase.  Entering phrase as 0 will stop the bot from confirming entries.  Default is OFF.
 - <kbd>!followeronly _0 or 1_</kbd> Enables(1) or disables(0) follower only mode for giveaways. Use without an option to display if it's on or off.
-- <kbd>!winnercooldown _amount_</kbd> - Gets or sets the winner cooldown.  Setting amount to 0 will disable this feature.  For example, if this is set to 1, then people are unable to enter back to bad giveaways if they won the previous one.  Default is OFF (0).
+- <kbd>!winnercooldown _amount_</kbd> - Gets or sets the winner cooldown.  Setting amount to 0 will disable this feature.  For example, if this is set to 1, then people are unable to enter the giveaway immediatley after winning.  Setting to 2, will make it so winners are unable to enter giveaway until 2 giveaways have happened since winning.  Default is OFF (0).
 
 
 
