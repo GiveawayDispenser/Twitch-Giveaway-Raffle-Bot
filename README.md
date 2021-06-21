@@ -39,7 +39,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 >A typical single winner giveaway will look something like this:
 ```
-!sg freekey - Starts the giveaway with keyword _freekey_.
+!sg freekey - Starts the giveaway with keyword freekey.
     Users would then enter the keyword to enter.
 !winner - Announces the winner.
     The winner acknowledges that they can and will accept the free key.
