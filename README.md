@@ -79,6 +79,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>!math</kbd> - Describes how the math works with the diminishing returns for those who just want to know.
 - <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
 - <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
+- <kbd>!giveawaysettings</kbd> - Spits out which features are enabled.
 
 **Misc. Commands**
 - <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
