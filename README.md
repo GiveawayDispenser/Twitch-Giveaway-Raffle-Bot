@@ -11,7 +11,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - Each currency you have will increase the minimum size of the dice you roll.  The dice starts out rolling 0-1000.  So for example, lets say you entered a giveaway and did not win, thus you were given 1 currency.  The next giveaway that you enter, instead of rolling a 0-1000 dice to determine if you win (by getting the highest roll), you would roll a 10-1000 sided dice.  This effectively increases your odds of getting a higher roll.  This effect stacks.  So lets say you had 2 currency, you would then roll a 20-1000 sided dice, so on and so forth.
 
 
-### Features
+## Features
 
 #### Discord Integration
 - @mention winner(s) on discord so they don't miss out on their win.
@@ -30,7 +30,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - Now imagine everyone at work entering every single giveaway.  Every winner would have to be passed over, and everyone would get free currency.  The streamer is now wasting their time having to wait for you to respond and then roll off another winner.  How many people will pass on their win?  This is not fair for the people who are actually entering the giveaways to WIN now, not try and farm it for later.
 - This feature works by penalizing anyone who wins but fails to claim their winnings either because they choose not to accept or if they are afk/do not respond.
 
-## Bot Commands ##
+## Bot Commands
 
 **Starting a Giveaway**
 - <kbd>!sg _keyword or phrase_</kbd> - Short for Start Giveaway. This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
