@@ -1,4 +1,3 @@
-# TwitchGiveawayRaffleBot AKA GiveawayDispenser
 # GiveawayDispenser #
 
 This bot actually dispenses giveaways!  This bot uses a system that has been called many things.  Some examples would be bad luck protection, good luck guarantee, lucky scuff protection, or pity (think Genshin Impact).  To make things as customizable as possible, the term for this "luck", is defined as a currency which can be named anything the streamer chooses.  Default is Token(s).
