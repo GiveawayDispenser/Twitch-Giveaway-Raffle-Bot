@@ -39,13 +39,13 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - - <kbd>!lock _2_</kbd> - Finalize the giveaway ONLY.  This will not lock in any winners, use !lock 1 to do that.  For example, this would be used after issuing <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> -> <kbd>!winner </kbd> -> <kbd>!lock 1</kbd> to finalize the giveaway with two people as winners.
 
 >A typical single winner giveaway will look something like this:
-```
+  ```
 !sg freekey - Starts the giveaway with keyword freekey.
     Users would then enter the keyword to enter.
 !winner - Announces the winner.
     The winner acknowledges that they can and will accept the free key.
 !lock - Locks in the winner, finalizes the giveaway and disperses any currency.
-```
+  ```
 
 **Giveaway Utility Commands**
 - <kbd>!endgiveaway</kbd> - End the current giveaway.  No luck or stats will result from the giveaway.  Useful if you start a giveaway on accident, as a test, or use the wrong keyword.
