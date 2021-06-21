@@ -17,6 +17,9 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - Upon finalizing a giveaway, all the rolls will be outputted to a designated discord channel.
 - Streamer can request a log of all bot commands/history sent through discord in a private channel.
 
+#### Multi Winner giveaways
+- Option to pick multiple winners for a single giveaway.  Maybe you want to carry TWO or more people in a key!
+
 #### Overflow
 - Users retain any excess currency after winning a giveaway.  As an example, a user has 220 currency, and wins a giveaway.  Only 100 of that was actually used to win the giveaway (to make your minimum roll the same as the maximum roll - 1000-1000).  With overflow ON, this user would end up with 120 currency after winning.  With overflow OFF, this user would end up with 0 currency after winning.
 
