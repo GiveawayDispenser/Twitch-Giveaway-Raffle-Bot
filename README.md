@@ -49,11 +49,11 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 **Giveaway Utility Commands**
 - <kbd>!endgiveaway</kbd> - End the current giveaway.  No luck or stats will result from the giveaway.  Useful if you start a giveaway on accident, as a test, or use the wrong keyword.
-- <kbd>!gcount</kbd> - Gvieaway Count.  This will announce in chat how many viewers are currently entered in the giveaway.
+- <kbd>!gcount</kbd> - Giveaway Count.  This will announce in chat how many viewers are currently entered in the giveaway.
 - <kbd>!add _targetuser_</kbd> - Add targetuser to the current giveaway if they are not entered already.  This might be useful if someone asks you to enter them in the raffle while they are on discord but unable to type for example.
 
 **Giveaway Settings**
-- <kbd>!setsubluck</kbd> - This will aloow you to see what the values are set to as well as let you change them.  Default tier values are 30 for t1, 35 for t2. 40 for t3.  If you are a Tier 1 subscriber, then every giveaway entered will give increase the floor (minimum) of your roll.  For example instead of rolling 0-1000, you would roll 300-1000, thus increasing your odds of getting a higher roll.  Example: <kbd>!setsubluck 30 35 40</kbd>
+- <kbd>!setsubluck</kbd> - This will aloow you to see what the values are set to as well as let you change them.  Default tier values are 30 for t1, 35 for t2. 40 for t3.  If you are a Tier 1 subscriber, then every giveaway entered will increase the floor (minimum) of your roll.  For example instead of rolling 0-1000, you would roll 300-1000, thus increasing your odds of getting a higher roll.  Example: <kbd>!setsubluck 30 35 40</kbd>
 - <kbd>!afk% _percent_</kbd> - Announces to chat the current afkreroll penalty percent.  Specify a percent to change it.  Example: <kbd>!afk% 50</kbd>
 - <kbd>!afk$ _amount_</kbd> - Announces to chat the current afkreroll penalty amount.  Specify an amount to change it.  Example: <kbd>!afk$ 1</kbd>
 - <kbd>!setcurrency _name_</kbd>- Announces the name of the currency. The term for luck granted by this bot is referenced as a currency, which is something you hold on to and can be named anything you want with this command. The default name for this currency is Token(s).  Example: <kbd>!setcurrency Stripper Cash</kbd>
@@ -66,8 +66,8 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 **User Info/Settings**
 - <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
 - <kbd>!substatus _targetuser_</kbd> - Announces in chat if targetuser is a sub, and if they are, which tier.
-- <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
-- <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream).  Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
+- <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  An amount of 0 will reset that users currency to 0. Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
+- <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
 
 **Information**
 - <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
@@ -81,13 +81,13 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
 
 **Private Settings/Commands**
->These commands must be whispered directly to the bot, and do not provide responses via whisper if any.
+>These commands must be whispered directly to the bot, and do not provide responses via whisper if any.  Only streamers can access these commands.
 
 - <kbd>setoauth _oauthkey_</kbd> - Sets the oauth key that the bot will need in order to fetch certain information about the stream and users in it.
 - <kbd>setclientid _clientid_</kbd> - Sets the client id that the bot will need in order to fetch certain information about the stream and users in it.
 - <kbd>setdiscordkey _discordwebhook_</kbd> - Sets the discord webhook which is required in order for the bot to output all the rolls upon a giveaway being finalized.
 - <kbd>setdiscordkey2 _discordwebhook2_</kbd> - Sets the discord webhook #2 which is required in order for the bot to output bot log files.  Probably make this discord channel private.
-- <kbd>setoverflow _amount_</kbd>" Entering an amount will make it so when someone wins a giveaway and their currency amount was over 100, the amount over 100 is kept, otherwise all currency is lost after u win. Setting the amount to 0 disables this feature.
+- <kbd>setoverflow _amount_</kbd> Entering an amount will make it so when someone wins a giveaway and their currency amount was over 100, the amount over 100 is kept, otherwise all currency is lost after u win. Setting the amount to 0 disables this feature.
 - <kbd>setgiveawaymsg _giveaway message_</kbd> Changes what you are giving away upon starting the giveaway. What are you giving away? Default: a FREE KEY
 - <kbd>settimermsg _msg_</kbd>  This is the chat message that announces that the giveaway is still open. Default: a FREE KEY!
 - <kbd>settimerdelay _delay_in_seconds_</kbd> Use this to change the delay between the announcement that there is still a gvieaway in progress. Default: 45
