@@ -49,7 +49,8 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 #### Finalizing the giveaway
 -  <kbd>!lock</kbd> - Finalize the giveaway.  This will lock in the last winner announced and finalize the giveaway, distributing all luck to those involved and updating the DB.
 -  <kbd>!lock _1_</kbd> - Lock in the last winner announced, but NOT finalize the giveaway.  Use this if you wish to have multiple winners in one giveaway.
--  <kbd>!lock _2_</kbd> - Finalize the giveaway ONLY.  This will not lock in any winners, use !lock 1 to do that.  For example, this would be used after issuing <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> ->  <kbd>!endgiveaway</kbd> - End the current giveaway.  No luck or stats will result from the giveaway.  Useful if you start a giveaway on accident, as a test, or use the wrong keyword.
+-  <kbd>!lock _2_</kbd> - Finalize the giveaway ONLY.  This will not lock in any winners, use !lock 1 to do that.  For example, this would be a typical use: <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> -> <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> -> <kbd>!lock 2</kbd>
+-   <kbd>!endgiveaway</kbd> - End the current giveaway.  No luck or stats will result from the giveaway.  Useful if you start a giveaway on accident, as a test, or use the wrong keyword.
 
 >A typical single winner giveaway will look something like this:
   ```
