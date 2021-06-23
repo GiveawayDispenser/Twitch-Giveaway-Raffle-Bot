@@ -114,6 +114,8 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ## Possible Future Features
  - [ ] Raffles that work across multiple Twitch Channels.
+ 
+ - [ ] Countdown timer after using !winner, resets upon issueing another !winner or when you finalize the giveaway.
 
  - [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
 
