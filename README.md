@@ -39,6 +39,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 **Starting a Giveaway**
 - <kbd>!sg _keyword or phrase_</kbd> - Short for Start Giveaway. This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
+- <kbd>!sgnoluck _keyword or phrase_</kbd> - Short for Start Giveaway that doesn't take luck into consideration (disabled). This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
 - <kbd>!winner _pardon_</kbd> - Select one winner and stop accepting new entrants.  This will announce the viewer that had the highest roll.  Appending the word "pardon" after !winner will "pardon" the previous winner.  A pardoned viewer will be entirely removed from the giveaway and will not incur any afkreroll penalties if they are enabled.  If a winner is unable to accept the prize, simply issue another !winner command to get the next highest roll.
 - <kbd>!lock</kbd> - Finalize the giveaway.  This will lock in the last winner announced and finalize the giveaway, distributing all luck to those involved and updating the DB.
 - - <kbd>!lock _1_</kbd> - Lock in the last winner announced, but NOT finalize the giveaway.  Use this if you wish to have multiple winners in one giveaway.
@@ -109,13 +110,13 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
  [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
 
- [ ] Giveaways that don't use any luck.
-
  [ ] Twitch built-in Channel Redepmptions that grant currency.
 
  [ ] Gifting subs or giving X bits gives temporary one-time use currency (with a cap).
 
  [ ] Redeem a prize that steals currency from another random person in chat.
+
+ [X] Giveaways that don't use any luck. _Addded on 6/23/2021_
 
  [X] Prevent people from winning a giveaway a second time until X giveaways have passed.  Winning giveaways back to back is usually bad. _Added 6/21/2021_
 
