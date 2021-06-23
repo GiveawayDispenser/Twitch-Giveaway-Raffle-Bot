@@ -122,11 +122,11 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
  - [ ] Redeem a prize that steals currency from another random person in chat.
 
- - [&#9745;] Giveaways that don't use any luck. _Addded on 6/23/2021_
+ &#9745; Giveaways that don't use any luck. _Addded on 6/23/2021_
 
- - [X] Prevent people from winning a giveaway a second time until X giveaways have passed.  Winning giveaways back to back is usually bad. _Added 6/21/2021_
+ &#9745; Prevent people from winning a giveaway a second time until X giveaways have passed.  Winning giveaways back to back is usually bad. _Added 6/21/2021_
 
- - [X] WoW Weakaura that shows in game for viewers to see all the keys currently in the group (helpful for KSM etc.).
+ &#9745; WoW Weakaura that shows in game for viewers to see all the keys currently in the group (helpful for KSM etc.).
 
 ## Contact Info
 
