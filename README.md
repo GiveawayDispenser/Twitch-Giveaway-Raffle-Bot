@@ -112,21 +112,21 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>sendlog</kbd>  This will send the current bot log file to discord webhook #2.  This can be helpful for example in determining if someones claim to not getting their currency has any merrit, or just basic troubleshooting/analysis.
 
 ## Possible Future Features
- [ ] Raffles that work across multiple Twitch Channels.
+ - [ ] Raffles that work across multiple Twitch Channels.
 
- [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
+ - [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
 
- [ ] Twitch built-in Channel Redepmptions that grant currency.
+ - [ ] Twitch built-in Channel Redepmptions that grant currency.
 
- [ ] Gifting subs or giving X bits gives temporary one-time use currency (with a cap).
+ - [ ] Gifting subs or giving X bits gives temporary one-time use currency (with a cap).
 
- [ ] Redeem a prize that steals currency from another random person in chat.
+ - [ ] Redeem a prize that steals currency from another random person in chat.
 
- [X] Giveaways that don't use any luck. _Addded on 6/23/2021_
+ - [X] Giveaways that don't use any luck. _Addded on 6/23/2021_
 
- [X] Prevent people from winning a giveaway a second time until X giveaways have passed.  Winning giveaways back to back is usually bad. _Added 6/21/2021_
+ - [X] Prevent people from winning a giveaway a second time until X giveaways have passed.  Winning giveaways back to back is usually bad. _Added 6/21/2021_
 
- [X] WoW Weakaura that shows in game for viewers to see all the keys currently in the group (helpfull for KSM etc.).
+ - [X] WoW Weakaura that shows in game for viewers to see all the keys currently in the group (helpful for KSM etc.).
 
 ## Contact Info
 
