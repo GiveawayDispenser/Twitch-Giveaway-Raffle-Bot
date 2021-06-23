@@ -126,7 +126,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
  ✅ Prevent people from winning a giveaway a second time until X giveaways have passed.  Winning giveaways back to back is usually bad. _Added 6/21/2021_
 
- ✅ WoW Weakaura that shows in game for viewers to see all the keys currently in the group (helpful for KSM etc.).
+ ✅ WoW Weakaura that shows in game for viewers to see all the keys currently in the group (helpful for KSM etc.). _Available upon request_
 
 ## Contact Info
 
