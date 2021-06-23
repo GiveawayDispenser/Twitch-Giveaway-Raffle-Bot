@@ -37,13 +37,19 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ## Bot Commands
 
-**Starting a Giveaway**
-- <kbd>!sg _keyword or phrase_</kbd> - Short for Start Giveaway. This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
-- <kbd>!sgnoluck _keyword or phrase_</kbd> - Short for Start Giveaway that doesn't take luck into consideration (disabled). This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
+### **Running a Giveaway**
+
+ ##### Start a giveaway
+- - <kbd>!sg _keyword or phrase_</kbd> - Short for Start Giveaway. This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
+ - <kbd>!sgnoluck _keyword or phrase_</kbd> - Short for Start Giveaway that doesn't take luck into consideration (disabled). This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
+
+#### Selecting a winner
 - <kbd>!winner _pardon_</kbd> - Select one winner and stop accepting new entrants.  This will announce the viewer that had the highest roll.  Appending the word "pardon" after !winner will "pardon" the previous winner.  A pardoned viewer will be entirely removed from the giveaway and will not incur any afkreroll penalties if they are enabled.  If a winner is unable to accept the prize, simply issue another !winner command to get the next highest roll.
-- <kbd>!lock</kbd> - Finalize the giveaway.  This will lock in the last winner announced and finalize the giveaway, distributing all luck to those involved and updating the DB.
-- - <kbd>!lock _1_</kbd> - Lock in the last winner announced, but NOT finalize the giveaway.  Use this if you wish to have multiple winners in one giveaway.
-- - <kbd>!lock _2_</kbd> - Finalize the giveaway ONLY.  This will not lock in any winners, use !lock 1 to do that.  For example, this would be used after issuing <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> -> <kbd>!winner </kbd> -> <kbd>!lock 1</kbd> to finalize the giveaway with two people as winners.
+
+#### Finalizing the giveaway
+-  <kbd>!lock</kbd> - Finalize the giveaway.  This will lock in the last winner announced and finalize the giveaway, distributing all luck to those involved and updating the DB.
+-  <kbd>!lock _1_</kbd> - Lock in the last winner announced, but NOT finalize the giveaway.  Use this if you wish to have multiple winners in one giveaway.
+-  <kbd>!lock _2_</kbd> - Finalize the giveaway ONLY.  This will not lock in any winners, use !lock 1 to do that.  For example, this would be used after issuing <kbd>!winner</kbd> -> <kbd>!lock 1</kbd> -> - <kbd>!endgiveaway</kbd> - End the current giveaway.  No luck or stats will result from the giveaway.  Useful if you start a giveaway on accident, as a test, or use the wrong keyword.
 
 >A typical single winner giveaway will look something like this:
   ```
@@ -51,11 +57,11 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
     Users would then enter the keyword to enter.
 !winner - Announces the winner.
     The winner acknowledges that they can and will accept the free key.
-!lock - Locks in the winner, finalizes the giveaway, disperses any currency, and reports the raffle rolls to discord (if configured).
+!lock - Locks in the winner, finalizes the giveaway, disperses any currency, and reports the giveaway rolls to discord (if configured).
   ```
 
 **Giveaway Utility Commands**
-- <kbd>!endgiveaway</kbd> - End the current giveaway.  No luck or stats will result from the giveaway.  Useful if you start a giveaway on accident, as a test, or use the wrong keyword.
+
 - <kbd>!gcount</kbd> - Giveaway Count.  This will announce in chat how many viewers are currently entered in the giveaway.
 - <kbd>!add _targetuser_</kbd> - Add targetuser to the current giveaway if they are not entered already.  This might be useful if someone asks you to enter them in the raffle while they are on discord but unable to type for example.
 
