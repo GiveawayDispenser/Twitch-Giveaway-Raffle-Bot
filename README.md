@@ -17,13 +17,13 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - Upon finalizing a giveaway, all the rolls will be outputted to a designated discord channel.
 - Streamer can request a log of all bot commands/history sent through discord in a private channel.
 
-#### Multi Winner giveaways
+#### Multi Winner Giveaways
 - Option to pick multiple winners for a single giveaway.  Maybe you want to carry TWO or more people in a key!
 
 #### Overflow
 - Users retain any excess currency after winning a giveaway.  As an example, a user has 220 currency, and wins a giveaway.  Only 100 of that was actually used to win the giveaway (to make your minimum roll the same as the maximum roll - 1000-1000).  With overflow ON, this user would end up with 120 currency after winning.  With overflow OFF, this user would end up with 0 currency after winning.
 
-#### Winner cooldown
+#### Winner Cooldown
 - Prevents winners from entering/winning multiple raffles in a row.  Setting this to 1 makes it so no one can win back to back giveaways.  Fully customizable.
 
 #### Tiered or Untiered Subluck
@@ -32,10 +32,10 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 #### Winner Countdown Timer in Chat
 - Countdown timer in chat automatically when you use the !winner command.  Locking in the winner is done manually via the !lock command to give maximum control to streamer.  Starts and ends automatically by using the standard commands.  Fully customizable.
 
-#### No Luck used giveaways
+#### No Luck Used Giveaways
 - An additional type of Giveaway that works the old fashioned way, luck is not used in any way for this type of giveaway.
 
-#### Winner cooldown
+#### Winner Cooldown
 - Prevent people from entering giveaways immediatley after winning one.  Or maybe they cant do another giveaway for five giveaways after they win.  Totally customizable.
 
 #### Anti-Currency Farming AKA afkreroll penalty
@@ -48,7 +48,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ### **Running a Giveaway**
 
- ##### Start a giveaway
+ ##### Start a Giveaway
 - - **C** <kbd>!sg _keyword or phrase_</kbd> - Short for Start Giveaway. This command will start a giveaway using the keyword or phrase (yes, you can even use the !) given as the method of entering the giveaway.  If no keyword or phrase is provided, then it will use the default one stored in the DB.  If a keyword or phrase is provided, then it both starts a giveaway AND sets the new default keyword or phrase to that. Viewers enter the giveaway by typing just the keyword or phrase into chat.
   - **C** <kbd>!sgnoluck _keyword or phrase_</kbd> - Short for Start Giveaway No Luck. Same as above but doesnt use luck in any way.
 
