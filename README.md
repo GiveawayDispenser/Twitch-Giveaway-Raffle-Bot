@@ -72,8 +72,9 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - <kbd>!afk$ _amount_</kbd> - Announces to chat the current afkreroll penalty amount.  Specify an amount to change it.  Example: <kbd>!afk$ 1</kbd>
 - <kbd>!setcurrency _name_</kbd>- Announces the name of the currency. The term for luck granted by this bot is referenced as a currency, which is something you hold on to and can be named anything you want with this command. The default name for this currency is Token(s).  Example: <kbd>!setcurrency Stripper Cash</kbd>
 - <kbd>!confirmentry _phrase_</kbd> - Gets or sets if the bot responds when someone enters a giveaway with the specified phrase.  Entering phrase as 0 will stop the bot from confirming entries.  Default is OFF.
-- <kbd>!followeronly _0 or 1_</kbd> Enables(1) or disables(0) follower only mode for giveaways. Use without an option to display if it's on or off.
+- <kbd>!followeronly _0/1_</kbd> Enables(1) or disables(0) follower only mode for giveaways. Use without an option to display if it's on or off.
 - <kbd>!winnercooldown _amount_</kbd> - Gets or sets the winner cooldown.  Setting amount to 0 will disable this feature.  For example, if this is set to 1, then people are unable to enter the giveaway immediatley after winning.  Setting to 2, will make it so winners are unable to enter giveaway until 2 giveaways have happened since winning.  Default is OFF (0).
+- <kbd>!winnertimer _0/1_ _duration_in_seconds_</kbd> - Countdown for when a winner is slected for them to claim their winnings. Disable(0)/Enable(1).  Default: DISABLED.  Examples:<kbd>!winnertimer 1</kbd>  to turn on the countdown timer.  <kbd>!winnertimer 1 120</kbd> to enable the countdown timer AND set the duration to 120 seconds.
 
 
 
@@ -114,8 +115,8 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ## Possible Future Features
  - [ ] Raffles that work across multiple Twitch Channels.
- 
- - [ ] Countdown timer after using !winner, resets upon issueing another !winner or when you finalize the giveaway.
+
+
 
  - [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
 
@@ -124,6 +125,8 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
  - [ ] Gifting subs or giving X bits gives temporary one-time use currency (with a cap).
 
  - [ ] Redeem a prize that steals currency from another random person in chat.
+
+ ✅ Countdown timer after using !winner, resets upon issueing another !winner or when you finalize the giveaway. _Added on 6/23/2021_
 
  ✅ Giveaways that don't use any luck. _Addded on 6/23/2021_
 
