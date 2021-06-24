@@ -105,7 +105,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 **Misc. Commands**
 - **CM** <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
 - **E** <kbd>!randint</kbd> - Picks a random number from 0-1000
-- **E/CM** <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
+- **CM** <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
 
 **Private Settings/Commands**
 >These commands must be whispered directly to the bot, and do not provide responses via whisper if any.  Only streamers can access these commands.
