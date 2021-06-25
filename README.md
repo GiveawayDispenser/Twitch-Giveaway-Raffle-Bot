@@ -4,7 +4,7 @@
 #![](viewer%20icon.png "Viewer")
 -->
 # GiveawayDispenser #
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [Contact Info](#Contact-Info)**
+**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [Contact Info](#Contact-Info) - [F.A.Q.](#Frequently-Asked-Questions)**
 
 This bot actually dispenses giveaways that give better luck each time you lose!
 >Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  Wouldn't want any "small indi companies" to ban us just because they saw the word raffle and assumed RMT without even investigating.  English is hard.
@@ -123,6 +123,10 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - ![](broadcaster%20icon.png "Broadcaster") <kbd>settimerenabled _0 or 1_</kbd> This will enable (1) or disable (0) the announcement of a giveaway in progress. Default: enabled (1)
 - ![](broadcaster%20icon.png "Broadcaster") <kbd>enablebot _0 or 1_</kbd> This will enable(1) or disable(0) the bot from accepting commands or keywords from chat.  Default: enabled(1)
 - ![](broadcaster%20icon.png "Broadcaster") <kbd>sendlog</kbd>  This will send the current bot log file to discord webhook #2.  This can be helpful for example in determining if someones claim to not getting their currency has any merrit, or just basic troubleshooting/analysis.
+
+## Frequently Asked Questions
+
+TODO
 
 ## Possible Future Features
  - [ ] Raffles that work across multiple Twitch Channels.
