@@ -1,4 +1,4 @@
-![](broadcaster%20icon.png)
+![](broadcaster%20icon.png "Broadcaster")
 # GiveawayDispenser #
 
 This bot actually dispenses giveaways that give better luck each time you lose!
