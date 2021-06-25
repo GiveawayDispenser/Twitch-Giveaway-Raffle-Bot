@@ -17,11 +17,16 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 - [Features](#Features)
 - [Bot Commands](#Bot-Commands)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  * [Running a Giveaway](#Running-a-Giveaway)
+  * [Utility Commands](#Giveaway-Utility-Commands)
+  * [Giveaway Settings](#Giveaway-Settings)
+  * [User Info/Settings](#User-Info/Settings)
+  * [Information](#Information)
+  * [Misc. Commands](#Misc.-Commands)
+  * [Private Settings/Commands](#Private-Settings/Commands)
+- [Contact Info](#Possible-Futre-Features)
 - [Contact Info](#Contact-Info)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+
 ## Features
 
 #### Discord Integration
