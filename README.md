@@ -4,7 +4,7 @@
 #![](viewer%20icon.png "Viewer")
 -->
 # GiveawayDispenser #
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [Contact Info](#Contact-Info) - [F.A.Q.](#Frequently-Asked-Questions)**
+**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 
 This bot actually dispenses giveaways that give better luck each time you lose!
 >Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  Wouldn't want any "small indi companies" to ban us just because they saw the word raffle and assumed RMT without even investigating.  English is hard.
