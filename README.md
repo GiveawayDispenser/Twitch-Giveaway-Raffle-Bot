@@ -1,4 +1,4 @@
-[MOD Only](https://github.com/GiveawayDispenser/Twitch-Giveaway-Raffle-Bot/blob/ed40ae4c6e79d68bc1ca3905e7b6fcfd91013ecf/broadcaster%20icon.png)
+![MOD Only](https://github.com/GiveawayDispenser/Twitch-Giveaway-Raffle-Bot/blob/ed40ae4c6e79d68bc1ca3905e7b6fcfd91013ecf/broadcaster%20icon.png)
 # GiveawayDispenser #
 
 This bot actually dispenses giveaways that give better luck each time you lose!
