@@ -101,7 +101,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - ![](mod%20icon.png "Moderator") <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  An amount of 0 will reset that users currency to 0. Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
 - ![](mod%20icon.png "Moderator") <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
 
-**Information**
+**Bot Information**
 - ![](viewer%20icon.png "Viewer") <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
 - ![](viewer%20icon.png "Viewer") <kbd>!math</kbd> - Describes how the math works with the diminishing returns for those who just want to know.
 - ![](viewer%20icon.png "Viewer") <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
