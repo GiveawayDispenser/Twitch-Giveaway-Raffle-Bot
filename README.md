@@ -135,7 +135,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
  - [ ] Redeem a prize that steals currency from another random person in chat.
 
- ✅ Countdown timer after using !winner, resets upon issueing another !winner or when you finalize the giveaway. _Added on 6/23/2021_
+ ✅ Countdown timer after using !winner, resets upon issuing another !winner or when you finalize the giveaway. _Added on 6/23/2021_
 
  ✅ Giveaways that don't use any luck. _Addded on 6/23/2021_
 
