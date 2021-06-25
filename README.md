@@ -17,7 +17,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 - [Features](#Features)
 - [Bot Commands](#Bot-Commands)
-- [Possible Future Features](#Possible-Futre-Features)
+- [Possible Future Features](#Possible-Future-Features)
 - [Contact Info](#Contact-Info)
 
 ## Features
