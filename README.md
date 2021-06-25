@@ -74,8 +74,8 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 **Giveaway Utility Commands**
 
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!gcount</kbd> - Giveaway Count.  This will announce in chat how many viewers are currently entered in the giveaway.
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!add _targetuser_</kbd> - Add targetuser to the current giveaway if they are not entered already.  This might be useful if someone asks you to enter them in the raffle while they are on discord but unable to type for example.
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!gcount</kbd> - Giveaway Count.  This will announce in chat how many viewers are currently entered in the giveaway.
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!add _targetuser_</kbd> - Add targetuser to the current giveaway if they are not entered already.  This might be useful if someone asks you to enter them in the raffle while they are on discord but unable to type for example.
 
 **Giveaway Settings**
 - ![](broadcaster%20icon.png "Broadcaster") <kbd>!setsubluck</kbd> - This will allow you to see what the values are set to as well as let you change them.  Default tier values are 30 for t1, 35 for t2. 40 for t3.  If you are a Tier 1 subscriber, then every giveaway entered will increase the floor (minimum) of your roll.  For example instead of rolling 0-1000, you would roll 300-1000, thus increasing your odds of getting a higher roll.  Example: <kbd>!setsubluck 30 35 40</kbd>
@@ -92,22 +92,22 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 
 **User Info/Settings**
-- ![](viewer%20icon.png "Viewer")/![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
+- ![](viewer%20icon.png "Viewer") / ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!substatus _targetuser_</kbd> - Announces in chat if targetuser is a sub, and if they are, which tier.
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  An amount of 0 will reset that users currency to 0. Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  An amount of 0 will reset that users currency to 0. Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
 
 **Information**
 - ![](viewer%20icon.png "Viewer") <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
 - ![](viewer%20icon.png "Viewer") <kbd>!math</kbd> - Describes how the math works with the diminishing returns for those who just want to know.
 - ![](viewer%20icon.png "Viewer") <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
 - ![](viewer%20icon.png "Viewer") <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!giveawaysettings</kbd> - Spits out which features are enabled.
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!giveawaysettings</kbd> - Spits out which features are enabled.
 
 **Misc. Commands**
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
 - ![](viewer%20icon.png "Viewer") <kbd>!randint</kbd> - Picks a random number from 0-1000
-- ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
 
 **Private Settings/Commands**
 >These commands must be whispered directly to the bot, and do not provide responses via whisper if any.  Only streamers can access these commands.
