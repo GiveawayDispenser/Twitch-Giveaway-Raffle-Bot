@@ -1,7 +1,7 @@
 <!--
 ![](broadcaster%20icon.png "Broadcaster")
 #![](mod%20icon.png "Moderator")
-#![](e-rated.png "Everyone")
+#**E**
 -->
 # GiveawayDispenser #
 
@@ -92,21 +92,21 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 
 **User Info/Settings**
-- ![](e-rated.png "Everyone")/![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
+- **E**/![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!substatus _targetuser_</kbd> - Announces in chat if targetuser is a sub, and if they are, which tier.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  An amount of 0 will reset that users currency to 0. Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
 
 **Information**
-- ![](e-rated.png "Everyone") <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
-- ![](e-rated.png "Everyone") <kbd>!math</kbd> - Describes how the math works with the diminishing returns for those who just want to know.
-- ![](e-rated.png "Everyone") <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
-- ![](e-rated.png "Everyone") <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
+- **E** <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
+- **E** <kbd>!math</kbd> - Describes how the math works with the diminishing returns for those who just want to know.
+- **E** <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
+- **E** <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!giveawaysettings</kbd> - Spits out which features are enabled.
 
 **Misc. Commands**
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
-- ![](e-rated.png "Everyone") <kbd>!randint</kbd> - Picks a random number from 0-1000
+- **E** <kbd>!randint</kbd> - Picks a random number from 0-1000
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
 
 **Private Settings/Commands**
