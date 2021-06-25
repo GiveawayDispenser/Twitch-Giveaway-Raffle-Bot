@@ -1,5 +1,5 @@
 ![](broadcaster%20icon.png "Broadcaster")
-![](moderator%20icon.png "Moderator")
+![](mod%20icon.png "Moderator")
 ![](viewer%20icon.png "Viewer")
 # GiveawayDispenser #
 
