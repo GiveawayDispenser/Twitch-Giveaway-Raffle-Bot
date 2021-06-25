@@ -92,7 +92,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 
 **User Info/Settings**
-- ![](viewer%20icon.png "Viewer")/![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
+- ![](viewer%20icon.png "Viewer") / ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!report _targetuser_</kbd> - Report to chat stats for the user issuing the command.  If targetuser is specified, then it will report the stats for that user instead.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!substatus _targetuser_</kbd> - Announces in chat if targetuser is a sub, and if they are, which tier.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!addone _targetuser amount_</kbd> - Adds an amount of currency to targetuser.  An amount of 0 will reset that users currency to 0. Example: <kbd>!addone scymplex 1</kbd> to give scymplex 1 currency.
 - ![](mod%20icon.png "Moderator")![](broadcaster%20icon.png "Broadcaster") <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
