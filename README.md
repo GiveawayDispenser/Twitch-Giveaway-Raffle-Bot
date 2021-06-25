@@ -4,6 +4,7 @@
 #![](viewer%20icon.png "Viewer")
 -->
 # GiveawayDispenser #
+**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [Bot Commands](#Bot-Commands) - [Contact Info](#Contact-Info)**
 
 This bot actually dispenses giveaways that give better luck each time you lose!
 >Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  Wouldn't want any "small indi companies" to ban us just because they saw the word raffle and assumed RMT without even investigating.  English is hard.
@@ -14,9 +15,6 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ##### What does this currency do?
 - Each currency you have will increase the minimum size of the dice you roll.  The dice starts out rolling 0-1000.  So for example, lets say you entered a giveaway and did not win, you get 1 currency.  The next giveaway that you enter, instead of rolling a 0-1000 dice to determine if you win (by getting the highest roll), you would roll a 10-1000 sided dice.  This effectively increases your odds of getting a higher roll.  This effect stacks.  So lets say you had 2 currency, you would then roll a 20-1000 sided dice, so on and so forth.
-
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [Bot Commands](#Bot-Commands) - [Contact Info](#Contact-Info)**
-
 
 ## Features
 
