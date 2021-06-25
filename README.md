@@ -105,9 +105,9 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!giveawaysettings</kbd> - Spits out which features are enabled.
 
 **Misc. Commands**
-- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
 - ![](viewer%20icon.png "Viewer") <kbd>!randint</kbd> - Picks a random number from 0-1000
 - ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!roll _targetuser_</kbd> - Emulates rolling the dice as if the user was in a giveaway (with currency).
+- ![](mod%20icon.png "Moderator") ![](broadcaster%20icon.png "Broadcaster") <kbd>!randomwinner</kbd> - Picks a random person currently watching the stream and announces it.
 
 **Private Settings/Commands**
 >These commands must be whispered directly to the bot, and do not provide responses via whisper if any.  Only streamers can access these commands.
