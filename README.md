@@ -99,7 +99,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 **Bot Information**
 - ![](viewer%20icon.png "Viewer") <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
-- ![](viewer%20icon.png "Viewer") <kbd>!math</kbd> - Describes how the math works with the diminishing returns for those who just want to know.
+- ![](viewer%20icon.png "Viewer") <kbd>!math</kbd> - Describes how the math works.
 - ![](viewer%20icon.png "Viewer") <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
 - ![](viewer%20icon.png "Viewer") <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
 - ![](mod%20icon.png "Moderator") <kbd>!giveawaysettings</kbd> - Spits out which features are enabled.
