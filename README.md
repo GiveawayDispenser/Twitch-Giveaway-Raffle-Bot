@@ -16,7 +16,6 @@ old
 -->
 # GiveawayDispenser
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
- - [ ] Raffles that work across multiple Twitch Channels.
 
 This bot actually dispenses giveaways that give better luck each time you lose!
 >Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  Wouldn't want any "small indi companies" to ban us just because they saw the word raffle and assumed RMT without even investigating.  English is hard.
@@ -30,7 +29,6 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ## Features
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
- - [ ] Raffles that work across multiple Twitch Channels.
 #### Discord Integration
 - Upon finalizing a giveaway, all the rolls will be outputted to a designated discord channel.
 - Streamer can request a log of all bot commands/history sent through discord in a private channel.
@@ -64,7 +62,6 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ## Bot Commands
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
- - [ ] Raffles that work across multiple Twitch Channels.
 ### **Running a Giveaway**
 
  ##### Start a Giveaway
@@ -143,14 +140,14 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 
 ## Frequently Asked Questions
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
- - [ ] Raffles that work across multiple Twitch Channels.
 
 Coming soon...
 
 ## Possible Future Features
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
- - [ ] Raffles that work across multiple Twitch Channels.
 
+ - [ ] Giveaways that work across multiple Twitch Channels.
+ 
  - [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
 
  - [ ] Twitch built-in Channel Redepmptions that grant currency.
@@ -170,6 +167,5 @@ Coming soon...
 
 ## Contact Info
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
- - [ ] Raffles that work across multiple Twitch Channels.
 
 Scymplex on https://discord.gg/7z3NEyu72n
