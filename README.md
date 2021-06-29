@@ -15,7 +15,7 @@ old
 
 -->
 # GiveawayDispenser
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info) - [Home](http://www.giveawaydispenser.com)**
+**[Home](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 
 This bot actually dispenses giveaways that give better luck each time you lose!
 >Some people equate this to a raffle; however raffles by definition require payment to enter, so we use the correct word instead (giveaway) since it's free to enter.  Wouldn't want any "small indi companies" to ban us just because they saw the word raffle and assumed RMT without even investigating.  English is hard.
@@ -28,7 +28,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - Each currency you have will increase the minimum size of the dice you roll.  The dice starts out rolling 0-1000.  So for example, lets say you entered a giveaway and did not win, you get 1 currency.  The next giveaway that you enter, instead of rolling a 0-1000 dice to determine if you win (by getting the highest roll), you would roll a 10-1000 sided dice.  This effectively increases your odds of getting a higher roll.  This effect stacks.  So lets say you had 2 currency, you would then roll a 20-1000 sided dice, so on and so forth.
 
 ## Features
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
+**[Home](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 #### Discord Integration
 - Upon finalizing a giveaway, all the rolls will be outputted to a designated discord channel.
 - Streamer can request a log of all bot commands/history sent through discord in a private channel.
@@ -61,7 +61,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - This feature works by penalizing anyone who wins but fails to claim their winnings either because they choose not to accept or if they are afk/do not respond.
 
 ## Bot Commands
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
+**[Home](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 ### **Running a Giveaway**
 
  ##### Start a Giveaway
@@ -139,12 +139,12 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/broadcaster%20icon.png "Broadcaster") <kbd>sendlog</kbd>  This will send the current bot log file to discord webhook #2.  This can be helpful for example in determining if someones claim to not getting their currency has any merrit, or just basic troubleshooting/analysis.
 
 ## Frequently Asked Questions
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
+**[Home](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 
 Coming soon...
 
 ## Possible Future Features
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
+**[Home](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
  - [ ] Raffles that work across multiple Twitch Channels.
 
  - [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
@@ -165,6 +165,6 @@ Coming soon...
 
 
 ## Contact Info
-**[Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
+**[Home](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 
 Scymplex on https://discord.gg/7z3NEyu72n
