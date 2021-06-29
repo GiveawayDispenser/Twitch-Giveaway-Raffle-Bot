@@ -112,7 +112,7 @@ Simply put, each giveaway a user enters and does not win, they receive currency.
 - ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/mod%20icon.png "Moderator") <kbd>!addchat _amount_</kbd> - Adds an amount of currency to everyone currently in chat (watching the stream). Example: <kbd>!addchat 1</kbd> adds 1 currency to all users in chat.
 
 **Bot Information**
-- ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/viewer%20icon.png "Viewer") <kbd>!giveaway</kbd> - Announces information about how giveaways work with this bot.
+- ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/viewer%20icon.png "Viewer") <kbd>!giveaways</kbd> - Announces information about how giveaways work with this bot.
 - ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/viewer%20icon.png "Viewer") <kbd>!math</kbd> - Describes how the math works.
 - ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/viewer%20icon.png "Viewer") <kbd>!overflow</kbd> - Describes how the overflow system works and if it is enabled.
 - ![](https://github.com/GiveawayDispenser/images/blob/23bc13927ec053abd7601275b94c2027f780d04d/viewer%20icon.png "Viewer") <kbd>!botversion</kbd> - Announces the current bot version along with some contact information for the author.
@@ -147,7 +147,7 @@ Coming soon...
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) - [Features](#Features) - [Bot Commands](#Bot-Commands) - [Possible Future Features](#Possible-Future-Features) - [F.A.Q.](#Frequently-Asked-Questions) - [Contact Info](#Contact-Info)**
 
  - [ ] Giveaways that work across multiple Twitch Channels.
- 
+
  - [ ] Settings configurable via discord buttons in addition to the already existant chat commands.
 
  - [ ] Twitch built-in Channel Redepmptions that grant currency.
