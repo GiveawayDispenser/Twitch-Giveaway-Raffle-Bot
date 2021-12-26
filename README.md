@@ -1,3 +1,3 @@
 
-# [GiveawayDispenser (http://www.giveawaydispenser.com)]
+# [GiveawayDispenser] (http://www.giveawaydispenser.com)
 **[Home (www.giveawaydispenser.com)](http://www.giveawaydispenser.com) 
